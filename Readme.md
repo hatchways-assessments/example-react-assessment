@@ -32,7 +32,6 @@ Here is a potential rubric you could use for this assessment. You may want to tw
   - Is state management efficient and well-handled?
   - Any automated testing written?
 - Written:
-
   - How well does the solution address gaps in their solution given the rubric above?
   - Does the solution mention issues with the code based on the rubric above?
 
