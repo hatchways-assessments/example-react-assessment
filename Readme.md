@@ -15,23 +15,23 @@ Here is a brief overview of the challenge:
 
 Here is a potential rubric you could use for this assessment. You may want to tweak this rubric depending on how you are using the assessment. For example, you might want to remove the written component and discuss that in a follow-up call after doing this as a take-home, or you might want to add UI as an additional category.
 
-- Meeting User Requirements:
+- **Meeting User Requirements:**
   - Does the solution work? Does it meet all the requirements?
-- UX:
+- **UX:**
   - How does the solution handle errors (from the API for example)?
   - How does the solution handle loading states? If someone clicks 3 cards quickly, what happens? Is the UX optimistic?
-- Code Organization:
+- **Code Organization:**
   - Is the code well-structured and organized? Does the solution leverage reusable components?
   - Is the code simple and not over-engineered?
   - Did the solution create a boundary between external services and the rest of the app?
   - Are the naming conventions consistent and intuitive?
-- Best Practices:
+- **Best Practices:**
   - How well does the solution handle state management?
   - Does the solution fix warnings in the app?
   - Is there unnecessary usage of hooks like useCallback, useMemo, useEffect, etc.?
   - Is state management efficient and well-handled?
   - Any automated testing written?
-- Written:
+- **Written:**
   - How well does the solution address gaps in their solution given the rubric above?
   - Does the solution mention issues with the code based on the rubric above?
 
